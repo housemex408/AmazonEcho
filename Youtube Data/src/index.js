@@ -104,6 +104,11 @@ function buildSpeechletResponse(title, output, shouldEndSession) {
             type: "PlainText",
             text: output
         },
+        card: {
+            type: "Simple",
+            title: title,
+            content: output
+        },
         shouldEndSession: shouldEndSession
     };
 }
