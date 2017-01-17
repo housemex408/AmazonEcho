@@ -54,6 +54,7 @@ jspm_packages
 .DS_Store
 Function.js
 accessKeys.csv
+Youtube Data/.idea/workspace.xml
 
 
 # End of https://www.gitignore.io/api/node
