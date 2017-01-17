@@ -1,0 +1,23 @@
+{
+  "name": "skill-sample-youtube-data",
+  "version": "1.0.0",
+  "description": "Sample Alexa skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "Alexa",
+    "Youtube",
+    "Data"
+  ],
+  "author": "Jose Alvarado",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "alexa-sdk": "^1.0.0"
+  }
+}
