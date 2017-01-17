@@ -86,7 +86,7 @@ const onSessionEnded = (sessionEndedRequest, session) => {
 
 // ------- Helper functions to build responses -------
 const CARD_TITLE = "Hello World",
-    WELCOME_TEXT = "Yes Jose!  You are amazingly awesome, now get to it and start building some super coolio Amazon Echo apps."
+    WELCOME_TEXT = "Your family includes a blondita named Darci, a small medium white dog called flashmo, and a super cute and tiny brown chi chi chihuahua named rosie"
 
 
 const getWelcomeResponse = (callback) => {
